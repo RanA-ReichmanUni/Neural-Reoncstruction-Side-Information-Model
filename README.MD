@@ -68,6 +68,7 @@ Our refinement network builds on a **U-Net** backbone and incorporates:
 
 This setup enables the model to align structural cues from side information with plausible content from diffusion.
 
+![Model Architacture](images/ModelArchitacture.jpg)
 ---
 
 ## Key Results
